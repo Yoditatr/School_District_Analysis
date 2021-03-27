@@ -24,7 +24,7 @@ As discribed above, replacing the ninth graders' score, affected the school perf
 
 Attached images of dataframes to show how the below have been affected by replacing the ninth grade data.  
 
-Math and reading scores by grade
+- Math and reading scores by grade
 
 ![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20math%20score%20by%20grade.PNG?raw=true)
 
@@ -32,13 +32,14 @@ Math and reading scores by grade
 
 ![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20reading%20score%20by%20grade.PNG?raw=true)
 
-Scores by school spending and school size
+- Scores by school spending and school size
 
 ![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20school%20spending.PNG?raw=true)
 
-Scores by school type
+- Scores by school type
 
 ![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20school%20type.PNG?raw=true)
+
 
 Listed below are the four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
