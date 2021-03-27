@@ -8,9 +8,13 @@ The analysis tries to answer the follwing questions.
 
 The new district summary for average math scores, average reading scores  and percenatages have dicreased by less than half percentage. 
 
+![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20district%20summary.PNG?raw=true)
+
 2. How is the school summary affected?
 
-On the previous analysis  Thomas High School was the second among the top five ranking schools in the district based on overall passing score, with the new school summary, after removing the 9th grade scores due to academic dishonesty, Thomas High School was still at the seccond level in the rank, but with relatively less percentage of passing scores. 
+On the previous analysis  Thomas High School was the second among the top five ranking schools in the district based on overall passing score, with the new school summary, after removing the 9th grade scores due to academic dishonesty, Thomas High School was still at the seccond level in the rank, but with relatively less percentage of passing scores.
+
+![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20perschool%20summary.PNG?raw=true)
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -22,11 +26,19 @@ Attached images of dataframes to show how the below have been affected by replac
 
 Math and reading scores by grade
 
-Scores by school spending
+![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20math%20score%20by%20grade.PNG?raw=true)
 
-Scores by school size
+
+
+![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20reading%20score%20by%20grade.PNG?raw=true)
+
+Scores by school spending and school size
+
+![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20school%20spending.PNG?raw=true)
 
 Scores by school type
+
+![alt text](https://github.com/Yoditatr/School_District_Analysis/blob/main/Resources/pycityshool%20challenge%20school%20type.PNG?raw=true)
 
 Listed below are the four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
